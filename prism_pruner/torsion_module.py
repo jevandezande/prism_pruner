@@ -1,4 +1,4 @@
-"""PRISM - PRuning Interface for Similar Molecules."""
+"""PRISM - Pruning Interface for Similar Molecules."""
 
 from copy import deepcopy
 from dataclasses import dataclass

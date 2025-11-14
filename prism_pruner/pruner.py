@@ -1,4 +1,4 @@
-"""PRISM - PRuning Interface for Similar Molecules."""
+"""PRISM - Pruning Interface for Similar Molecules."""
 
 from dataclasses import dataclass, field
 from time import perf_counter
